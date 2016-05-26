@@ -1,0 +1,55 @@
+[OPTIONS]
+Compiled file=./Robot_Reference.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Robot Library
+
+[WINDOWS]
+main="Robot Library","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_new_ping_8cpp_source.html
+_new_ping_8h_source.html
+_robot_8cpp_source.html
+_robot_8h_source.html
+struct_config.html
+struct_config-members.html
+class_new_ping.html
+class_new_ping-members.html
+class_robot.html
+class_robot-members.html
+graph_legend.html
+dir_ecf8ca46b2885291d59feefec80b5002.html
+index.html
+annotated.html
+classes.html
+functions.html
+functions_func.html
+files.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+doc.png
+folderopen.png
+folderclosed.png
+arrowdown.png
+arrowright.png
+splitbar.png
+class_robot__coll__graph.png
+graph_legend.png
+dir_ecf8ca46b2885291d59feefec80b5002_dep.png

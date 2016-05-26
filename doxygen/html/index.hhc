@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Config"><param name="Local" value="struct_config.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="echoPin"><param name="Local" value="struct_config.html#ad54e49acaaede7d0982c3a96048ce335"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enA"><param name="Local" value="struct_config.html#a073f3447f58b59e52dc08682f507854a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enB"><param name="Local" value="struct_config.html#abf816e9d0f54b9f3d2249294e301803c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxDistance"><param name="Local" value="struct_config.html#a0ff457b106ac0c0085c421ace0d9ac96"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="minDistance"><param name="Local" value="struct_config.html#a3b6ee4c941976aacf297c1429b407d85"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="motor1A"><param name="Local" value="struct_config.html#a11d03f64bca14c768128c162d240a27a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="motor1B"><param name="Local" value="struct_config.html#a2c7b1d9b4f7ac003e6d9f2815d76ee46"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="motor2A"><param name="Local" value="struct_config.html#a4748a4981d4a4c149a5b0176d4bbf074"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="motor2B"><param name="Local" value="struct_config.html#ac0d4effce24949653f0d22b0b90faf1b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="servoPin"><param name="Local" value="struct_config.html#a0cfc4dd075f92d8fbe2d996410b5ab69"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="servoPos"><param name="Local" value="struct_config.html#a41516d12365647afe7805f7edfb9e7b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="steps"><param name="Local" value="struct_config.html#ac5f8bd373463e9f06e495bc369237660"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="triggerPin"><param name="Local" value="struct_config.html#a8ca7a328efa6ca03c379090b1f400d54"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPing"><param name="Local" value="class_new_ping.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPing"><param name="Local" value="class_new_ping.html#ad517c7800c66b0a9f3c175d881776aff"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="check_timer"><param name="Local" value="class_new_ping.html#a225128afccd4bb37f137669bb1064cbd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="convert_cm"><param name="Local" value="class_new_ping.html#a48beafc2846a2e5b069c25572f4ba360"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="convert_in"><param name="Local" value="class_new_ping.html#ab6a1cb162229f34d1cb89b4827f26077"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping"><param name="Local" value="class_new_ping.html#a160631bdd7193193a327a5c24b52a67f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping_cm"><param name="Local" value="class_new_ping.html#a81d98e9898668a20c0d9f323e1f2ee53"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping_in"><param name="Local" value="class_new_ping.html#a60f300c42029cf7e10431f221c0c108e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping_median"><param name="Local" value="class_new_ping.html#ab75a49c6c1f6a486e4ceb506b82d6eb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping_timer"><param name="Local" value="class_new_ping.html#a0b1af96debb323453a065fdc6ec8fed1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ping_result"><param name="Local" value="class_new_ping.html#a5d78ebdbffa4f42124ff7e06860503e6"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Robot"><param name="Local" value="class_robot.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Robot"><param name="Local" value="class_robot.html#a4fc7c70ae20623f05e06f2ecb388b6c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Robot"><param name="Local" value="class_robot.html#a3fd7bfaf3d43da2a291cb5852540bdc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Robot"><param name="Local" value="class_robot.html#a924320124b09c2f2ac1621aa210d5f38"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="doSweep"><param name="Local" value="class_robot.html#ab9796b4e2ab8239b189ac70397462b92"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="drive"><param name="Local" value="class_robot.html#a91513f09bedc7698d75f4b00d579fcca"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDistance"><param name="Local" value="class_robot.html#ad47dcf59234d4c4bbdb8aeb17919cba8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getServoPos"><param name="Local" value="class_robot.html#a4f581d8f1ad7f3898ee0b784fa1672a0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="roboSetup"><param name="Local" value="class_robot.html#a8f144c62e41a70d05e12b6bb54649fc5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setServoPos"><param name="Local" value="class_robot.html#a84df2430448bcdd9add871eae5d149cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="roboConfig"><param name="Local" value="class_robot.html#a60e04d2e8cd6a54bee449a2fd8265d6f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="robot"><param name="Local" value="dir_ecf8ca46b2885291d59feefec80b5002.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPing.cpp"><param name="Local" value="_new_ping_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPing.h"><param name="Local" value="_new_ping_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Robot.cpp"><param name="Local" value="_robot_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Robot.h"><param name="Local" value="_robot_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
