@@ -76,7 +76,7 @@ int Robot::doSweep() {
 		delay(15);
 	}
 	if (start == 180)
-		setServoPos(0)
+		setServoPos(0);
 	else if (start == 0)
 		setServoPos(180);
 
